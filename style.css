@@ -25,3 +25,38 @@ body{
     font-weight: 600;
     font-size: 48px;
 }
+.fetured-img img{
+    width: 80%;
+    overflow: hidden;
+}
+.filter{
+    filter: grayscale(100%);
+}
+.clients-text h2{
+    color: #0A0826;
+}
+.clients-text span{
+    color: #E76F51;
+}
+.clients-img img{
+    margin-top: 30px;
+    width: 149px;
+    height: 149px;
+}
+.fa-star.filled{
+    color: #E77C40;;
+}
+/* FAQ section style  */
+.faq-section h1{
+   color: #0D0925;
+}
+.faq-section span{
+   color: #E76F51;
+}
+.faq-img img{
+    width: 70%;
+}
+.accordion-card{
+    border: none;
+    margin-bottom: 20px;
+}
