@@ -1,0 +1,27 @@
+/* fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+*{
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* header section style  */
+.header-section{
+    background-color: #264653;
+}
+.btn-style{
+    background-color: #E76F51 !important;
+    padding: 10px 46px;
+}
+/* Fetured Bikes style  */
+.fetured-text p{
+    color: #E76F51;
+    font-weight: 600;
+    font-size: 14px
+}
+.fetured-text h1{
+    color: #000000;
+    font-weight: 600;
+    font-size: 48px;
+}
