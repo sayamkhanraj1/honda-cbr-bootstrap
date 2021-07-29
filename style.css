@@ -60,3 +60,22 @@ body{
     border: none;
     margin-bottom: 20px;
 }
+/* Offer section style  */
+.offer-sec{
+    background-color: #f2f2f2;
+}
+.offer-text{
+    background-color: #e60000;
+    color: white;
+    padding: 10px 15px;
+}
+.new-img img{
+    width: 100%;
+}
+/* About us section style  */
+.about-us{
+    background-color: #FDF6F0;
+}
+.about-us-img img{
+    width: 100%;
+}
