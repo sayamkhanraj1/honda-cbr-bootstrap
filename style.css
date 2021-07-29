@@ -12,9 +12,11 @@ body{
 }
 .btn-style{
     background-color: #E76F51 !important;
-    padding: 10px 46px;
 }
 /* Fetured Bikes style  */
+.nev-icon{
+    color: white;
+}
 .fetured-text p{
     color: #E76F51;
     font-weight: 600;
